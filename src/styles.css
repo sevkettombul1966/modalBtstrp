@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  margin: 50px;
+}
+button {
+  color: white;
+  background: lightseagreen;
+  border: none;
+  padding: 10px;
+}
